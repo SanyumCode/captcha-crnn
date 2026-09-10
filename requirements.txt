@@ -1,0 +1,10 @@
+torch>=2.2,<3
+torchvision>=0.17,<1
+numpy>=1.26,<3
+opencv-python-headless>=4.8,<5
+Pillow>=10,<13
+tqdm>=4.65,<5
+matplotlib>=3.7,<4
+onnx>=1.15,<2
+onnxruntime>=1.17,<2
+pytest>=8,<9

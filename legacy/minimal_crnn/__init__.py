@@ -1,0 +1,1 @@
+"""Legacy minimal CRNN implementation."""
